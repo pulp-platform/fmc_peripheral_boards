@@ -1,0 +1,10 @@
+Output: CAD
+Type  : ExportSTEP
+From  : Variant [main] of PCB Document [FPGA_Peripheral_Board.PcbDoc]
+   Generated File[FPGA_Peripheral_Board_CAD.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 08:46:46 On 06.03.2021

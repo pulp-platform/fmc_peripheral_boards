@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=FMC_Test_Module_main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=FMC_Test_Module_main.SchDoc|Designator=FMC|SchDesignator=FMC|FileName=FMC.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=FMC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=FMC_Test_Module_main.SchDoc|Designator=TEST|SchDesignator=TEST|FileName=FMC_Test_Module.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=FMC_Test_Module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

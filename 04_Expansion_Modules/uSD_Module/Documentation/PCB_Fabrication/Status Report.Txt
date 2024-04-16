@@ -1,0 +1,13 @@
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [uSD_Module_TYPE2242.PcbDoc]
+   Generated File[uSD_Module_NC Drill.TXT]
+   Generated File[uSD_Module_TYPE2242-BoardEdgeRout.TXT]
+   Generated File[uSD_Module_NC Drill.LDP]
+   Generated File[uSD_Module_NC Drill.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 08:52:52 On 11.02.2021

@@ -1,0 +1,13 @@
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [UART_Module_TYPE2242.PcbDoc]
+   Generated File[UART_Module_NC Drill.TXT]
+   Generated File[UART_Module_NC Drill-BoardEdgeRout.TXT]
+   Generated File[UART_Module_NC Drill.LDP]
+   Generated File[UART_Module_NC Drill.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:15:24 On 22/12/2022

@@ -1,0 +1,13 @@
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [FMC_Test_Module.PcbDoc]
+   Generated File[FMC_Test_Module_NC Drill.TXT]
+   Generated File[FMC_Test_Module-BoardEdgeRout.TXT]
+   Generated File[FMC_Test_Module_NC Drill.LDP]
+   Generated File[FMC_Test_Module_NC Drill.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:37:49 On 11.02.2021

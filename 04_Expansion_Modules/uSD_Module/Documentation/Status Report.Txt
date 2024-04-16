@@ -1,0 +1,10 @@
+Output: CAD
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [uSD_Module_TYPE2242.PcbDoc]
+   Generated File[uSD_Module_CAD.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 08:53:26 On 11.02.2021

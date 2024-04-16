@@ -1,0 +1,10 @@
+Output: CAD
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [FMC_Test_Module.PcbDoc]
+   Generated File[FMC_Test_Module_CAD.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:38:27 On 11.02.2021

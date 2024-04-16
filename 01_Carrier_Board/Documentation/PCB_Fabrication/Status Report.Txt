@@ -1,0 +1,13 @@
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [FPGA_Peripheral_Board.PcbDoc]
+   Generated File[FPGA_Peripheral_Board_NC Drill.TXT]
+   Generated File[FPGA_Peripheral_Board-BoardEdgeRout.TXT]
+   Generated File[FPGA_Peripheral_Board_NC Drill.LDP]
+   Generated File[FPGA_Peripheral_Board_NC Drill.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 08:46:21 On 06.03.2021

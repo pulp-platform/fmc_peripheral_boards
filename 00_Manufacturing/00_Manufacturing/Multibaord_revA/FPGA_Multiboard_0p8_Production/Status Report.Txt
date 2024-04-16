@@ -1,0 +1,13 @@
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [MultiBoard_0p8mm.PcbDoc]
+   Generated File[MultiBoard_0p8mm_NC Drill.TXT]
+   Generated File[MultiBoard_0p8mm-BoardEdgeRout.TXT]
+   Generated File[MultiBoard_0p8mm_NC Drill.LDP]
+   Generated File[MultiBoard_0p8mm_NC Drill.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:06:56 On 15.02.2021

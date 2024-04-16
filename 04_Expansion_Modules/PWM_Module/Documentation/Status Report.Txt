@@ -1,0 +1,10 @@
+Output: CAD
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [PWM_Module_TYPE2242.PcbDoc]
+   Generated File[PWM_Module_CAD.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:27:16 On 17/01/2023

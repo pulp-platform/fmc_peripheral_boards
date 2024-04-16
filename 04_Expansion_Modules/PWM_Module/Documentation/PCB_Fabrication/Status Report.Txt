@@ -1,0 +1,13 @@
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [PWM_Module_TYPE2242.PcbDoc]
+   Generated File[PWM_Module_NC Drill.TXT]
+   Generated File[PWM_Module_NC Drill-BoardEdgeRout.TXT]
+   Generated File[PWM_Module_NC Drill.LDP]
+   Generated File[PWM_Module_NC Drill.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 14:27:04 On 17/01/2023

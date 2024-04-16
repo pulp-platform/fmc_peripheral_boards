@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=FMC|SchDesignator=FMC|FileName=peripheral.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=peripheral.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=FMC|SchDesignator=FMC|FileName=connector.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=connector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

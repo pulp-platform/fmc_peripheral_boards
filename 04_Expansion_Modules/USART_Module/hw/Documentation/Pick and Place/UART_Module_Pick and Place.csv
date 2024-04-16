@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations
+C:\Users\admin\Desktop\tesi\FMC Peripheral Board\UART_Module\Documentation\Pick and Place\UART_Module_Pick and Place.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/12/22
+Time:       17:15
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"P3","61300511121","TopLayer","61300511121","11.0000","6.0000","180","THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 5 pins"
+"P4","61300411121","TopLayer","61300411121","24.0000","6.0000","180","THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 4 pins"
+"P2","61301421121","TopLayer","61301421121","33.0000","15.0000","270","THT Vertical Pin Header WR-PHD, Pitch 2.54 mm, Dual Row, 14 pins"
+"P1","62201021121","TopLayer","62201021121","21.0000","22.7500","180","THT Vertical Pin Header WR-PHD, Pitch 1.27 mm, Dual Row, 10 pins"
+"SW1","KMR231GLFS","TopLayer","FP-KMR231GLFS-MFG","38.3125","22.0000","270","SWITCH TACTILE SPST-NO 0.05A 32V"
+"R8","100r","TopLayer","FP-CRCW0603-e3-IPC_B","12.7500","20.2500","270","RES Thick Film, 100O, 5%, 0.1W, 200ppm/°C, 0603"
+"R7","100r","TopLayer","FP-CRCW0603-e3-IPC_B","12.7500","10.5000","270","RES Thick Film, 100O, 5%, 0.1W, 200ppm/°C, 0603"
+"R6","100r","TopLayer","FP-CRCW0603-e3-IPC_B","12.7500","17.0000","270","RES Thick Film, 100O, 5%, 0.1W, 200ppm/°C, 0603"
+"R5","100r","TopLayer","FP-CRCW0603-e3-IPC_B","12.7500","13.7500","270","RES Thick Film, 100O, 5%, 0.1W, 200ppm/°C, 0603"
+"R4","100r","TopLayer","FP-CRCW0603-e3-IPC_B","5.7500","20.2500","90","RES Thick Film, 100O, 5%, 0.1W, 200ppm/°C, 0603"
+"R3","100r","TopLayer","FP-CRCW0603-e3-IPC_B","5.7500","10.5000","90","RES Thick Film, 100O, 5%, 0.1W, 200ppm/°C, 0603"
+"R2","100r","TopLayer","FP-CRCW0603-e3-IPC_B","5.7500","17.0000","90","RES Thick Film, 100O, 5%, 0.1W, 200ppm/°C, 0603"
+"R1","100r","TopLayer","FP-CRCW0603-e3-IPC_B","5.7500","13.7500","90","RES Thick Film, 100O, 5%, 0.1W, 200ppm/°C, 0603"
+"C13","4u7","BottomLayer","FP-C1608-080-0_1-IPC_C","13.7500","23.7500","90","Multilayer Ceramic Capacitors 4.7µF ±10% 16V X7R SMD 0603"
+"C12","4u7","BottomLayer","FP-C1608-080-0_1-IPC_C","5.2500","23.7500","90","Multilayer Ceramic Capacitors 4.7µF ±10% 16V X7R SMD 0603"
+"C11","4u7","BottomLayer","FP-C1608-080-0_1-IPC_C","33.0000","5.5000","180","Multilayer Ceramic Capacitors 4.7µF ±10% 16V X7R SMD 0603"
+"C10","4u7","BottomLayer","FP-C1608-080-0_1-IPC_C","33.0000","24.5000","180","Multilayer Ceramic Capacitors 4.7µF ±10% 16V X7R SMD 0603"
+"C5","4u7","BottomLayer","FP-C1608-080-0_1-IPC_C","29.7500","6.5000","270","Multilayer Ceramic Capacitors 4.7µF ±10% 16V X7R SMD 0603"
+"C1","4u7","TopLayer","FP-C1608-080-0_1-IPC_C","26.2500","18.2500","270","Multilayer Ceramic Capacitors 4.7µF ±10% 16V X7R SMD 0603"
+"C3","1u","TopLayer","FP-CL10B105KO8NNNC-MFG","26.2500","15.2500","90","Multilayer Ceramic Capacitors 1µF ±10% 16V X7R SMD 0603"
+"C9","100n","BottomLayer","CAPC1608X90X35ML15T15","15.7500","11.2500","90","Multilayer Ceramic Capacitors 100nF ±10% 16V X7R SMD 0603"
+"C6","100n","BottomLayer","CAPC1608X90X35ML15T15","28.5000","15.7500","270","Multilayer Ceramic Capacitors 100nF ±10% 16V X7R SMD 0603"
+"C4","100n","TopLayer","CAPC1608X90X35ML15T15","28.5000","19.7500","270","Multilayer Ceramic Capacitors 100nF ±10% 16V X7R SMD 0603"
+"C2","100n","TopLayer","CAPC1608X90X35ML15T15","28.5000","16.2500","270","Multilayer Ceramic Capacitors 100nF ±10% 16V X7R SMD 0603"
+"Q4","BSS806","TopLayer","FAIR-SSOT3L-3_V","10.0000","20.2500","180","MOSFET N-CH 20V 2.3A SOT23-3"
+"Q3","BSS806","TopLayer","FAIR-SSOT3L-3_V","10.0000","10.5000","180","MOSFET N-CH 20V 2.3A SOT23-3"
+"Q2","BSS806","TopLayer","FAIR-SSOT3L-3_V","10.0000","17.0000","180","MOSFET N-CH 20V 2.3A SOT23-3"
+"Q1","BSS806","TopLayer","FAIR-SSOT3L-3_V","10.0000","13.7500","180","MOSFET N-CH 20V 2.3A SOT23-3"
+"U1","STM32L412K8T6","BottomLayer","STM32L412K8T6","22.0000","15.0000","180","MCU 32-bit"
+"X1","CONN PWR CARD EDGE PCB SLOT MALE","TopLayer","CON-67_0.5MM_PCB_SLOT","1.2500","15.0000","270","Mates with 2199119-4 - No BOM"
+"LD4","Green","TopLayer","FP-150060VS75000-MFG","7.2500","20.2500","270","LED GREEN CLEAR 0603 SMD"
+"LD3","Green","TopLayer","FP-150060VS75000-MFG","7.2500","10.5000","270","LED GREEN CLEAR 0603 SMD"
+"LD2","Green","TopLayer","FP-150060VS75000-MFG","7.2500","17.0000","270","LED GREEN CLEAR 0603 SMD"
+"LD1","Green","TopLayer","FP-150060VS75000-MFG","7.2500","13.7500","270","LED GREEN CLEAR 0603 SMD"
+"U3","S-1172B18-E6T1U","BottomLayer","S1172","9.5000","22.5000","270","LDO 1V8 fixed"

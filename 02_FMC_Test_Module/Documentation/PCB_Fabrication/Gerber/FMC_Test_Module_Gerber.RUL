@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\phili\polybox\05_AltiumProjects\FPGA Peripheral Board\FMC_Test_Module\FMC_Test_Module.PcbDoc
+RuleKind=Width|RuleName=Width_50R_CON2|Scope=Board|Minimum=4.92
+RuleKind=Width|RuleName=Width_50R_CON1|Scope=Board|Minimum=4.92
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

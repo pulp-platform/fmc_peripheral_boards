@@ -1,0 +1,10 @@
+Output: CAD
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [UART_Module_TYPE2242.PcbDoc]
+   Generated File[UART_Module_CAD.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 17:15:38 On 22/12/2022

@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+C:\Users\phili\polybox\05_AltiumProjects\FPGA Peripheral Board\FMC_Test_Module\Documentation\Pick and Place\FMC_Test_Module_Pick and Place.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       11.02.21
+Time:       11:38
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment         Layer       Footprint             Center-X(mm) Center-Y(mm) Rotation Description                                                                                          
+J5         CON-SMA-EDGE-S  BottomLayer FP-CON-SMA-EDGE-S-MFG -15.2400     5.0000       270      "CONN SMA JACK STR EDGE MNT"                                                                         
+J4         CON-SMA-EDGE-S  BottomLayer FP-CON-SMA-EDGE-S-MFG -15.2400     18.2500      270      "CONN SMA JACK STR EDGE MNT"                                                                         
+J3         CON-SMA-EDGE-S  BottomLayer FP-CON-SMA-EDGE-S-MFG -15.2400     31.5000      270      "CONN SMA JACK STR EDGE MNT"                                                                         
+J2         CON-SMA-EDGE-S  BottomLayer FP-CON-SMA-EDGE-S-MFG -15.2400     44.7500      270      "CONN SMA JACK STR EDGE MNT"                                                                         
+J1         CON-SMA-EDGE-S  BottomLayer FP-CON-SMA-EDGE-S-MFG -15.2400     58.0000      270      "CONN SMA JACK STR EDGE MNT"                                                                         
+P1         ASP-134488-01   BottomLayer BTB-SM1-27-2V400M     -2.0000      31.5000      270      "Board-to-Board Connector, Vertical, 10-Row, Pitch 1.27mm, 400-Position"                             
+X1         TSM-110-01-L-DV TopLayer    SMTC-TSM-110-01-X-DV  2.0000       51.5000      180      "0.025" SQ Post Header, Surface Mount, Vertical, -55 to 125 degC, 2.54 mm Pitch, 20-Pin, Male, RoHS" 
+X3         TSM-110-01-L-DV TopLayer    SMTC-TSM-110-01-X-DV  2.0000       31.5000      180      "0.025" SQ Post Header, Surface Mount, Vertical, -55 to 125 degC, 2.54 mm Pitch, 20-Pin, Male, RoHS" 
+X4         TSM-110-01-L-DV TopLayer    SMTC-TSM-110-01-X-DV  2.0000       21.5000      180      "0.025" SQ Post Header, Surface Mount, Vertical, -55 to 125 degC, 2.54 mm Pitch, 20-Pin, Male, RoHS" 
+X5         TSM-110-01-L-DV TopLayer    SMTC-TSM-110-01-X-DV  2.0000       11.5000      180      "0.025" SQ Post Header, Surface Mount, Vertical, -55 to 125 degC, 2.54 mm Pitch, 20-Pin, Male, RoHS" 
+X2         TSM-110-01-L-DV TopLayer    SMTC-TSM-110-01-X-DV  2.0000       41.5000      180      "0.025" SQ Post Header, Surface Mount, Vertical, -55 to 125 degC, 2.54 mm Pitch, 20-Pin, Male, RoHS" 

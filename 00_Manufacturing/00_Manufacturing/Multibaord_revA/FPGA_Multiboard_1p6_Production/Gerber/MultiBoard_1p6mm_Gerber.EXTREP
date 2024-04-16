@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: MultiBoard_1p6mm_Gerber.GBR   06.03.2021  08:47:11
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GP1                Int1 (GND)                              
+.GP2                Int2 (PWR)                              
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM4                Mechanical 4                            
+.GM7                V Cut                                   
+.GM8                Route Tool Path                         
+------------------------------------------------------------------------------------------

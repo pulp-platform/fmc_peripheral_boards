@@ -1,0 +1,23 @@
+Altium Designer Pick and Place Locations
+C:\Users\phili\polybox\05_AltiumProjects\FPGA Peripheral Board\uSD_Module\Documentation\Pick and Place\uSD_Module_Pick and Place.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       11.02.21
+Time:       08:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                            Layer    Footprint             Center-X(mm) Center-Y(mm) Rotation Description                                                                                       
+X2         ST1W008S4AR1500                    TopLayer ST1W008S4AR1500       24.0000      15.0000      180      "Memory Card Connectors MICRO SD HINGE TYPE OPEN on cover"                                        
+X1         "CONN PWR CARD EDGE PCB SLOT MALE" TopLayer CON-67_0.5MM_PCB_SLOT 1.2500       15.0000      270      "Mates with 2199119-4 - No BOM"                                                                   
+U1         MAX13035EETE+                      TopLayer FP-T1644-4-MFG        10.0000      15.0000      90       "IC TRNSLTR BIDIRECTIONAL 16TQFN"                                                                 
+C7         100nF                              TopLayer CAPC1050X55X23LL05T13 6.2500       13.5000      90       "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel" 
+C5         100nF                              TopLayer CAPC1050X55X23LL05T13 9.2500       11.2500      0        "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel" 
+C2         100nF                              TopLayer CAPC1050X55X23LL05T13 33.5000      14.5250      90       "Chip Capacitor, 100 nF, +/- 10%, 16 V, -55 to 125 degC, 0402 (1005 Metric), RoHS, Tape and Reel" 
+C6         10uF                               TopLayer CAPC1608X90X35LL15T15 5.5648       6.7593       270      ""                                                                                                
+C3         10uF                               TopLayer CAPC1608X90X35LL15T15 5.5648       16.4575      270      ""                                                                                                
+C4         1uF                                TopLayer CAPC1005X60X30LL05T10 9.2493       10.1789      0        ""                                                                                                
+C1         1uF                                TopLayer CAPC1005X60X30LL05T10 34.5000      14.5250      90       ""                                                                                                
