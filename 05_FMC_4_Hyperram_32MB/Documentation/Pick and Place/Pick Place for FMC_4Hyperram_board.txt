@@ -1,0 +1,40 @@
+Altium Designer Pick and Place Locations
+C:\Users\User\Desktop\fmc_peripheral_boards-master\05_FMC_4_Hyperram_32MB\Fabrication\Pick Place\Pick Place for FMC_4Hyperram_board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/05/24
+Time:       14:10
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                    Layer       Footprint           Center-X(mil) Center-Y(mil) Rotation Description                                                          
+C15        "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 468.198       2216.733      0        "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+C14        "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 371.114       2140.061      0        "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+C13        "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 614.326       2218.702      180      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+U4         S71KS512SC0                TopLayer    FBGA24_A-130        2053.512      727.919       180      "IC 512MB FLASH 64MB DRAM 24FBGA"                                    
+U1         S71KS512SC0                TopLayer    FBGA24_A-130        421.877       1628.938      180      "IC 512MB FLASH 64MB DRAM 24FBGA"                                    
+J7         ASP-134604-01              BottomLayer ASP-134604-01       1202.952      1158.072      270      "Conn Array Terminal FMC Male SKT 160 POS 1.27mm Solder ST SMD"      
+R2         "12K 5% 0603(1608)"        TopLayer    RESC0603(1608)_N    354.948       2037.056      90       "12K 0.1W 5% 0603 (1608 Metric)  SMD"                                
+R1         "15K 5% 0603(1608)"        TopLayer    RESC0603(1608)_N    415.971       2035.938      270      "15K 0.1W 5% 0603 (1608 Metric)  SMD"                                
+ADP1715    ADP1715                    TopLayer    TSOP65P490X110-8N   574.697       2030.028      270      ""                                                                   
+U3         S71KS512SC0                TopLayer    FBGA24_A-130        2046.768      1140.355      180      "IC 512MB FLASH 64MB DRAM 24FBGA"                                    
+C9         "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 647.532       1200.493      180      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+C8         "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 513.198       1394.922      180      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+C7         "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 294.979       1161.122      270      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+C6         "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 616.036       1650.591      180      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+C5         "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 493.727       1827.970      180      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+C4         "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 251.672       1575.583      90       "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+C3         "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 2243.111      1179.725      180      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+C2         "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 1863.390      1305.709      0        "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+C1         "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 1855.696      1093.308      0        "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+U2         S71KS512SC0                TopLayer    FBGA24_A-130        461.247       1184.745      180      "IC 512MB FLASH 64MB DRAM 24FBGA"                                    
+LOGO1      "Logo Pulp"                TopLayer    Logo_Pulp           -19079.095    -18903.868    90       "4 Layers: only valid for layer stack as defined for the TestBoards" 
+M2         "Mounting Hole"            TopLayer    Hole_M3             2283.464      200.788       0        "Mounting Hole, 7.2mm pad, 3.2mm plated hole"                        
+M1         "Mounting Hole"            TopLayer    Hole_M3             2285.432      2124.016      0        "Mounting Hole, 7.2mm pad, 3.2mm plated hole"                        
+C12        "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 2253.936      767.289       180      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+C11        "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 1851.758      862.386       0        "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+C10        "CAP 100nF 25V 0603(1608)" TopLayer    CAPC0603(1608)100_N 1837.884      671.570       0        "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"            
+A1         "Logo ETH Zurich"          TopLayer    eth-zurich_3mm      -19079.095    -18903.868    90       ""                                                                   
