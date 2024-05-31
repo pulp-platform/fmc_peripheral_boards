@@ -2,10 +2,17 @@
 
 # Introduction
 
-This repository houses source files and PDF schematics for a series of PCB designs.
-The purpose of these boards is to facilitate peripheral verification of SoC designs, which is crucial for engineers who need to validate and test FPGA interfaces and achieve smooth integration with various peripheral devices.
+This repository contains the work on the FMC Peripheral boards, which are a set of PCB designs specifically created for validating peripherals on various FPGA platforms enhanced with the FPGA Mezzanine Card (FMC) standard.
+
+In this repository, you will find source files and PDF schematics for a series of these PCB designs. These boards were developed with the specific purpose of facilitating peripheral verification of System on Chip (SoC) designs. We have put significant effort into ensuring these designs are robust and versatile, making them valuable tools for engineers who need to validate and test FPGA interfaces and achieve seamless integration with a wide range of peripheral devices. Moreover, thanks to the modularity of theese designs we have been able to test peripherals on silicon proven SoC managing to use the same hardware in the loop along the entire design process. By providing these resources, we aim to support the development and testing processes, allowing for more generic and broad applications.
 
 Ideal for hardware developers and testers, these designs facilitate accurate and efficient verification processes, enhancing reliability and performance.
+
+We have designed these PCBs to the best of our ability and they have performed well for us. However we offer no warranty of any kind (see also LICENSE) and provide these as is, without any support, use at your own risk.
+
+# License
+
+The files provided in this repository are released under Creative Commons with Attribution (`CC-BY`) (see `LICENSE` for details) license, except for `04_Expansion_Modules/USART_Module/fw/` that contains third-party source files that come from STMicroelectronics and has been released under Berkeley Software Distribution 3-Clause (`BSD 3-Clause`) license (see `04_Expansion_Modules/USART_Module/fw/LICENSE` for details).
 
 # Structure of the repository
 
@@ -50,9 +57,9 @@ This repository contains the following folders:
             - The M.2 type module described is an innovative expansion card specifically designed to test up to 8xPWM. It exposes four Crazyflie 2.X DC motor connectors which can be dinamically connected to all the PWM outputs.
 
         - **`USART_Module`**
-            - The M.2 type module designed for communication with the STM32L412K8T6 microcontroller using the USART (Universal Synchronous/Asynchronous Receiver/Transmitter) protocol is a specialized interface card. This module serves as a bridge to facilitate robust serial communication between the design on the FPGA and the onboard STM32L412K8T6. This folder is organized as follows:
-               - `fw/`, contains the firmware source code for the STM32L412K8T6 microcontroller
-               - `hw/`, containing the Altium designer source files and pdf schematics of the USART_Module
+            - The M.2 type module designed for communication with the STM32L412K8T6 microcontroller using the USART (Universal Synchronous/Asynchronous Receiver/Transmitter) protocol is a specialized interface card. This module serves as a bridge to facilitate robust serial communication between the design mapped on the FPGA and the onboard STM32L412K8T6 microcontroller. This folder is organized as follows:
+               - `fw/`, directory contains source code dedicated to testing the USART functionality. To generate the complete software stack for the STM32L412K8T6 microcontroller, you can use the STM32 CubeMX Tool provided by STMicroelectronics (https://www.st.com/content/st_com/en/stm32cubemx.html#st-get-software) and configure its pinout accordingly to the schematic under `hw/Documentation/UART_Module_SCH.PDF`
+               - `hw/`, directory contains the Altium designer source files and PDF schematics of the USART_Module
 
         - **`uSD_Module`**
             - The M.2 type module described is an innovative expansion card that facilitate the development, testing, and debugging of Secure Digital Input Output (SDIO) protocol implementations, allowing engineers to easily interface with microSD cards and ensure compliance with SDIO standards.
@@ -60,13 +67,6 @@ This repository contains the following folders:
 - **`05_FMC_4_Hyperram_32MB`**
     - The FMC board described here is a specialized module designed to significantly enhance the memory capabilities.
     It features four 8MB HyperRAMs, providing a total of 32MB of additional low-pin-count RAM. 
-
-# License
-
-The Altium designer source files are released under Solderpad v0.51 (`SHL-0.51`) (see `01_Carrier_Board/LICENSE`)
-
-The `04_Expansion_Modules/USART_Module/fw/`directory contain third-party sources that come with their own
-licenses. See the respective folders and source files for the licenses used.
 
 # Publications
 

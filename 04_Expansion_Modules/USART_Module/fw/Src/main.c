@@ -56,11 +56,11 @@ UART_HandleTypeDef huart1;
 UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN PV */
-uint8_t tx_buffer[BUFFER_SIZE];//={'S','t','a','y',' ','a','t',' ','h','o','m','e','!','!','!','!'};
+uint8_t tx_buffer[BUFFER_SIZE];
 uint8_t rx_buffer[BUFFER_SIZE];
 
-uint8_t st_buffer[SIZE]={'S','t',' ','p','i','e','n','o',' ','\n'};
-uint8_t pulp_buffer[SIZE]={'P','u','l','p',' ','f','u','l','l','\n'};
+uint8_t st_buffer[SIZE]={'S','T','M',' ','f','u','l','l','\n'};
+uint8_t pulp_buffer[SIZE]={'P','U','L','P',' ','f','u','l','l','\n'};
 
 /* USER CODE END PV */
 
