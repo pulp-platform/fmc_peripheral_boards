@@ -68,7 +68,7 @@ This repository contains the following folders:
     - The FMC board described here is a specialized module designed to significantly enhance the memory capabilities.
     It features four 8MB HyperRAMs, providing a total of 32MB of additional low-pin-count RAM. 
 
-**`06_FMC_4_Hyperram_32MB`**
+- **`06_FMC_4_Hyperram_32MB`**
     - This Version of FMC board utilizes of the four 64Mb HyperRam Chips. 
 
 # Publications
