@@ -1,0 +1,7 @@
+Change Component Comment : Designator=C13 Old Comment=CAP 100nF 25V 0603(1608) New Comment=CAP 2.2 µF 25V 0603 (1608)
+Change Component Comment : Designator=C15 Old Comment=CAP 100nF 25V 0603(1608) New Comment=CAP 2.2 µF 25V 0603 (1608)
+Change Component Comment : Designator=C14 Old Comment=CAP 100nF 25V 0603(1608) New Comment=CAP 10nF 50V 0603(1608)
+Change Component Description : Designator=ADP1715 Old Description= New Description=IC REG LINEAR 1.8V 500MA 8MSOP
+Change Component Description : Designator=C13 Old Description=CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD New Description=CAP 2.2 µF ±10% 25V X7R 0603 (1608 Metric) Thickness 1.80mm SMD
+Change Component Description : Designator=C15 Old Description=CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD New Description=CAP 2.2 µF ±10% 25V X7R 0603 (1608 Metric) Thickness 1.80mm SMD
+Change Component Description : Designator=C14 Old Description=CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD New Description=CAP 10nF  ±10% 50V CH  0603 (1608 Metric) Thickness 0.75mm SMD

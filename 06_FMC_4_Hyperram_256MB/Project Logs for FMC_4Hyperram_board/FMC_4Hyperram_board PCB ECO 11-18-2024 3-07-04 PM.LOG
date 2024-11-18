@@ -1,0 +1,37 @@
+Added Component: Designator=U4(FBGA24_A-130)
+Add component (AddParameter): Name = "Interface"; Value = "Parallel, Serial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Cypress Semiconductor Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Format"; Value = "FLASH, RAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "512Mbit Flash, 64Mbit RAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Type"; Value = "Non-Volatile"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "24-VBGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "HyperFlash™ + HyperRAM™ KS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "24-FBGA(6x8)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "1.8V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FMC_HYPER_CSN0 Pin=U4-A3
+Added Pin To Net: NetName=FMC_HYPER_RESET Pin=U4-A4
+Added Pin To Net: NetName=FMC_HYPER_CK_N Pin=U4-B1
+Added Pin To Net: NetName=FMC_HYPER_CK_P Pin=U4-B2
+Added Pin To Net: NetName=GND Pin=U4-B3
+Added Pin To Net: NetName=Vmem_low Pin=U4-B4
+Added Pin To Net: NetName=GND Pin=U4-C1
+Added Pin To Net: NetName=FMC_HYPER_RWDS Pin=U4-C3
+Added Pin To Net: NetName=FMC_HYPER_D2 Pin=U4-C4
+Added Pin To Net: NetName=Vmem_low Pin=U4-D1
+Added Pin To Net: NetName=FMC_HYPER_D1 Pin=U4-D2
+Added Pin To Net: NetName=FMC_HYPER_D0 Pin=U4-D3
+Added Pin To Net: NetName=FMC_HYPER_D3 Pin=U4-D4
+Added Pin To Net: NetName=FMC_HYPER_D4 Pin=U4-D5
+Added Pin To Net: NetName=FMC_HYPER_D7 Pin=U4-E1
+Added Pin To Net: NetName=FMC_HYPER_D6 Pin=U4-E2
+Added Pin To Net: NetName=FMC_HYPER_D5 Pin=U4-E3
+Added Pin To Net: NetName=Vmem_low Pin=U4-E4
+Added Pin To Net: NetName=GND Pin=U4-E5
+Added Member To Class: ClassName=U_FMC and Power Member=Component C13 CAP 100nF 25V 0603(1608)
+Added Member To Class: ClassName=U_FMC and Power Member=Component C14 CAP 100nF 25V 0603(1608)
+Added Member To Class: ClassName=U_FMC and Power Member=Component C15 CAP 100nF 25V 0603(1608)
+Added Member To Class: ClassName=U_HyperRAM Member=Component U4 S71KS512SC0
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
