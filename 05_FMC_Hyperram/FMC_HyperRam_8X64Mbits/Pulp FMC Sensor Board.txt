@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : D:\Arya\8 HYPER\Arya\8 HYPER\Pulp FMC Sensor Board.PcbDoc
+Date         : 11/28/2024
+Time         : 4:17:47 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 72.898mmx68.961mm
+    Components on board, 43
+count : 2

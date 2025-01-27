@@ -1,0 +1,16 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Pulp FMC Sensor Board_4X512Mbits_HyperRam.PcbDoc   1/27/2025  4:04:13 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Pulp FMC Sensor Board_4X512Mbits_HyperRam.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             158       PTH        528.79mm (20.82inch)
+T2      3.2mm (126mil)                                            Round             2         PTH        48.85mm (1.92inch)
+T3      1.27mm (50mil)                                            Round             2         NPTH       54.47mm (2.14inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              162
+
+Total Processing Time (hh:mm:ss) : 00:00:00
