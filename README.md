@@ -64,9 +64,20 @@ This repository contains the following folders:
         - **`uSD_Module`**
             - The M.2 type module described is an innovative expansion card that facilitate the development, testing, and debugging of Secure Digital Input Output (SDIO) protocol implementations, allowing engineers to easily interface with microSD cards and ensure compliance with SDIO standards.
 
-- **`05_FMC_4_Hyperram_32MB`**
-    - The FMC board described here is a specialized module designed to significantly enhance the memory capabilities.
-    It features four 8MB HyperRAMs, providing a total of 32MB of additional low-pin-count RAM. 
+- **`05_FMC_Hyperram`**
+    - The FMC Hyperram board described here is a specialized FMC module designed to significantly enhance the memory capabilities.
+
+        - **`FMC_HyperRam_4X64Mbits`**
+            - It features four 8MB HyperRAMs, providing a total of 32MB of additional low-pin-count RAM.
+
+        - **`FMC_HyperRam_4X512Mbits`**
+            - It features four 64MB HyperRAMs, providing a total of 256MB of additional low-pin-count RAM. 
+
+        - **`FMC_HyperRam_8X64Mbits`**
+            - It features eight 8MB HyperRAMs, providing a total of 64MB of additional low-pin-count RAM.
+
+        - **`FMC_HyperRam_8X512Mbits`**
+            - It features eight 64MB HyperRAMs, providing a total of 512MB of additional low-pin-count RAM.
 
 # Publications
 

@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\Arya\Git_Repos\fmc_peripheral_boards\06_FMC_HyperRam_4X512Mbits\Pulp FMC Sensor Board_4X512Mbits_HyperRam.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91

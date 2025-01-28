@@ -1,0 +1,90 @@
+Altium Designer Pick and Place Locations
+D:\Arya\Git_Repos\fmc_peripheral_boards\08_FMC_HyperRam_8X512Mbits\Fabrication\Pick Place\Pick Place for Pulp FMC Sensor Board_8X512Mbits_HyperRam.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       27/01/25
+Time:       18:45
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                    Layer       Footprint           Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                     
+LOGO1      "Logo Pulp"                TopLayer    Logo_Pulp           -18685.395    -18707.018    0        "4 Layers: only valid for layer stack as defined for the TestBoards"                                                                            
+A1         "Logo ETH Zurich"          TopLayer    eth-zurich_3mm      -18685.395    -18707.018    0        ""                                                                                                                                              
+C10        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 1837.487      1475.761      315      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C11        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 2116.858      1541.859      315      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C12        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 1898.868      1648.209      270      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+M1         "Mounting Hole"            TopLayer    Hole_M3             2648.622      2524.606      0        "Mounting Hole, 7.2mm pad, 3.2mm plated hole"                                                                                                   
+M2         "Mounting Hole"            TopLayer    Hole_M3             2647.288      206.693       0        "Mounting Hole, 7.2mm pad, 3.2mm plated hole"                                                                                                   
+U3         S80KS5122                  TopLayer    FBGA24_A-130        472.231       921.916       270      "512 Mb: HYPERRAM™ self-refresh dynamic
+RAM (DRAM) with HYPERBUS™ interface
+1.8 V
+Mfr No: S80KS5122GABHI020
+Supplier No: 727-S5122GABHI020" 
+C1         "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 2315.646      1459.711      225      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C2         "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 2523.622      1426.171      90       "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C3         "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 2377.097      1672.710      180      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C4         "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 590.130       1420.543      270      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C7         "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 413.151       921.916       220      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C9         "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 575.490       936.481       270      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+U8         S80KS5122                  TopLayer    FBGA24_A-130        2362.205      787.402       180      "512 Mb: HYPERRAM™ self-refresh dynamic
+RAM (DRAM) with HYPERBUS™ interface
+1.8 V
+Mfr No: S80KS5122GABHI020
+Supplier No: 727-S5122GABHI020" 
+ADP1715    ADP1715                    TopLayer    TSOP65P490X110-8N   968.398       2226.878      270      "IC REG LINEAR 1.8V 500MA 8MSOP
+Mfr No: ADP1715ARMZ-1.8-R7
+Supplier No: ADP1715ARMZ-1.8-R7CT-ND"                                              
+C13        "Cap Semi"                 TopLayer    0402-A              1006.784      2437.646      270      "Capacitor (Semiconductor SIM Model)"                                                                                                           
+C14        "Cap Semi"                 TopLayer    0402-A              789.987       2316.445      180      "Capacitor (Semiconductor SIM Model)"                                                                                                           
+C15        "Cap Semi"                 TopLayer    0402-A              944.882       2440.945      90       "Capacitor (Semiconductor SIM Model)"                                                                                                           
+R1         "15K 5% 0603(1608)"        TopLayer    RESC0603(1608)_N    809.672       2232.789      270      "15K 0.1W 5% 0603 (1608 Metric)  SMD"                                                                                                           
+R2         "12K 5% 0603(1608)"        TopLayer    RESC0603(1608)_N    748.649       2232.789      90       "12K 0.1W 5% 0603 (1608 Metric)  SMD"                                                                                                           
+U7         S80KS5122                  TopLayer    FBGA24_A-130        1983.736      787.402       180      "512 Mb: HYPERRAM™ self-refresh dynamic
+RAM (DRAM) with HYPERBUS™ interface
+1.8 V
+Mfr No: S80KS5122GABHI020
+Supplier No: 727-S5122GABHI020" 
+C16        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 2297.929      730.914       90       "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C17        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 2523.622      795.276       90       "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C18        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 2313.677      1023.068      270      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C19        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 1956.237      696.790       90       "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C20        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 2060.105      898.407       0        "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C21        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 1831.508      872.299       45       "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C25        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 357.132       1820.747      270      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C26        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 470.295       1853.235      270      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+U6         S80KS5122                  TopLayer    FBGA24_A-130        2362.205      1448.819      180      "512 Mb: HYPERRAM™ self-refresh dynamic
+RAM (DRAM) with HYPERBUS™ interface
+1.8 V
+Mfr No: S80KS5122GABHI020
+Supplier No: 727-S5122GABHI020" 
+U5         S80KS5122                  TopLayer    FBGA24_A-130        1983.737      1448.819      180      "512 Mb: HYPERRAM™ self-refresh dynamic
+RAM (DRAM) with HYPERBUS™ interface
+1.8 V
+Mfr No: S80KS5122GABHI020
+Supplier No: 727-S5122GABHI020" 
+U1         S80KS5122                  TopLayer    FBGA24_A-130        472.231       1791.338      270      "512 Mb: HYPERRAM™ self-refresh dynamic
+RAM (DRAM) with HYPERBUS™ interface
+1.8 V
+Mfr No: S80KS5122GABHI020
+Supplier No: 727-S5122GABHI020" 
+U4         S80KS5122                  TopLayer    FBGA24_A-130        472.231       580.916       270      "512 Mb: HYPERRAM™ self-refresh dynamic
+RAM (DRAM) with HYPERBUS™ interface
+1.8 V
+Mfr No: S80KS5122GABHI020
+Supplier No: 727-S5122GABHI020" 
+U2         S80KS5122                  TopLayer    FBGA24_A-130        472.231       1441.011      270      "512 Mb: HYPERRAM™ self-refresh dynamic
+RAM (DRAM) with HYPERBUS™ interface
+1.8 V
+Mfr No: S80KS5122GABHI020
+Supplier No: 727-S5122GABHI020" 
+J7         ASP-134604-01              BottomLayer ASP-134604-01       1399.803      1354.922      270      "Conn Array Terminal FMC Male SKT 160 POS 1.27mm Solder ST SMD"                                                                                 
+C5         "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 424.962       1295.476      90       "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C6         "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 460.239       1506.312      90       "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C27        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 411.153       1983.270      270      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C22        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 583.667       561.833       270      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C24        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 412.719       450.000       90       "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C8         "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 472.231       1012.795      180      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
+C23        "CAP 100nF 25V 0603(1608)" BottomLayer CAPC0603(1608)100_N 375.906       629.922       270      "CAP 100nF 25V ±10% 0603 (1608 Metric) Thickness 1mm SMD"                                                                                       
